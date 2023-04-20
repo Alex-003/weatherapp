@@ -1,12 +1,12 @@
 # Weather App
 
-This is a React weather app that retrieves current weather data from the OpenWeatherMap API and displays it for a given city. It also has a text-to-speech feature that allows users to hear the current weather for the selected city.
+This is a weather app made with React that retrieves current weather data from the OpenWeatherMap API and displays it for a given city. It also has a text-to-speech feature that allows users to hear the current weather for the selected city.
 
 ## Installation
 
 To install and run the app locally:
 
-1. Clone the repository: `git clone https://github.com/your-username/weather-app.git`
+1. Clone the repository: `git clone https://github.com/Alex-003/weather-app.git`
 2. Install dependencies: `npm install`
 3. Set up an account on [OpenWeatherMap](https://openweathermap.org/) and get an API key.
 4. In the `App.js` file, replace the `API_KEY` variable with your own API key.
@@ -22,7 +22,9 @@ To install and run the app locally:
 
 - React
 - OpenWeatherMap API
+- SpeechSynthesisUtterance
 - HTML/CSS
+- Jest/Babel
 
 ## License
 
