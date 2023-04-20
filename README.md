@@ -22,13 +22,9 @@ To install and run the app locally:
 
 - React
 - OpenWeatherMap API
-- SpeechSynthesisUtterance
+- SpeechSynthesisUtterance API
 - HTML/CSS
 - Jest/Babel
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Acknowledgments
 
