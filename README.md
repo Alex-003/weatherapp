@@ -23,6 +23,7 @@ To install and run the app locally:
 - React
 - OpenWeatherMap API
 - HTML/CSS
+- Babel/Jest
 
 ## License
 

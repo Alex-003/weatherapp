@@ -178,7 +178,7 @@ form.search-bar button:hover {
 
 .talk-button {
   position: absolute;
-  top: 80%;
+  top: 85%;
   left: 50%;
   transform: translate(-50%, -50%);
   background: #0b80e6aa;

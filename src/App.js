@@ -39,11 +39,7 @@ function App() {
         <p className="instructions">1. First you look up for the city.</p>
       </>
 
-      <SearchBar
-        id="search-input"
-        onCityChange={handleCityChange}
-          
-      />
+      <SearchBar id="search-input" onCityChange={handleCityChange} />
 
       <>
         <p className="instructions">
