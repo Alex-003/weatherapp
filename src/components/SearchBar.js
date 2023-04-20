@@ -15,8 +15,10 @@ function SearchBar({ onCityChange }) {
         placeholder="Search city"
         value={inputValue}
         onChange={(e) => setInputValue(e.target.value)}
+        aria-label="You can write the name of the city here"
       />
-      <button type="submit">Search</button>
+      <button type="submit"
+      aria-label="Press this button to search">Search</button>
     </form>
   );
 }

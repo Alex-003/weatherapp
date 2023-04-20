@@ -9,6 +9,8 @@ function WeatherCard({ data }) {
   const temp = main.temp - 273.15; // Convert from Kelvin to Celsius
 
   return (
+    
+    
     <div className="weather-card">
       <h2>{name}</h2>
       <p>{weather[0].description}</p>
